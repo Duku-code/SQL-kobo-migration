@@ -1,0 +1,6 @@
+pandas
+SQLAlchemy
+requests
+streamlit
+python-dotenv
+pyodbc
